@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26276
     wikipedia: http://en.wikipedia.org/wiki/R._S._Richardson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24150#Disturbing-Sun
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2008-01-03'
 gutenberg_type: Text
